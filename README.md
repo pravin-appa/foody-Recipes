@@ -1,3 +1,15 @@
+# About Project
+
+This an ReactJS based site which consistes of Recipes of different types of recipes with instruction and ingredients. Information is fetched from an API for the food recipes.
+
+# -> Here are some screenshots of Projects
+
+![Screenshot (44)](https://user-images.githubusercontent.com/62396023/201965066-462d047c-d4ee-401a-9ca0-47c45bbb8f6c.png)
+
+![Screenshot (45)](https://user-images.githubusercontent.com/62396023/201965101-ef8d8401-0632-4aeb-8640-83a3b23886ef.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
